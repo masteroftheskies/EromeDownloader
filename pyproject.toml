@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "eromedownloader"
+version = "0.0.1"
+description = "A Downloader for erome.com"
+authors = ["masteroftheskies <masteroftheskies@proton.me>"]
+license = "MIT"
+repository = "https://github.com/masteroftheskies/eromedownloader"
+keywords=['erome', 'scraping', 'downloader']
+classifiers = [
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+    ]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+beautifulsoup4 = "*"
+aiofiles = "*"
+aiohttp = "*"
+requests = "*"
+tqdm = "*"
+
+[tool.poetry.dev-dependencies]
+mypy = "*"
+pytest = "*"
+coverage = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
