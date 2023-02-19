@@ -1,15 +1,16 @@
 # eromedownloader
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/eromedownloader)
+[![PyPI](https://img.shields.io/pypi/v/eromedownloader)](https://pypi.org/project/eromedownloader)
 ![PyPI - Status](https://img.shields.io/pypi/status/eromedownloader)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/eromedownloader)
 ![PyPI - License](https://img.shields.io/pypi/l/eromedownloader)
 
-__Speedy downloader for erome.com hosted as python package installable via pip__
+__Speedy downloader for erome.com hosted as python package__
 
 ## Installation
 
-- *eromedownloader* uses python 3.11, so make sure you're using it prior to installing the package via pip
+- *eromedownloader* uses python 3.11, so make sure you're using it prior to installing the package via pip or whatever
 
 ```shell
 pip install eromedownloader
