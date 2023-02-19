@@ -5,7 +5,7 @@
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/eromedownloader)
 ![PyPI - License](https://img.shields.io/pypi/l/eromedownloader)
 
-__Downloader for erome.com hosted as python package installable via pip__
+__Speedy downloader for erome.com hosted as python package installable via pip__
 
 ## Installation
 
