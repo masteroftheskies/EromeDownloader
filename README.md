@@ -2,7 +2,6 @@
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/eromedownloader)
 [![PyPI](https://img.shields.io/pypi/v/eromedownloader)](https://pypi.org/project/eromedownloader)
-![PyPI - Status](https://img.shields.io/pypi/status/eromedownloader)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/eromedownloader)
 ![PyPI - License](https://img.shields.io/pypi/l/eromedownloader)
 
@@ -19,7 +18,7 @@ pip install eromedownloader
 ## Basic Usage
 
 ```shell
-python eromedownloader --url https://www.erome.com/a/{ALBUM_ID}  
+python -m eromedownloader --url https://www.erome.com/a/{ALBUM_ID}  
 ```
 
 ## Optional Arguments
